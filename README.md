@@ -4,4 +4,4 @@ Created a MySQL DB, defined tables, and inserted data from a .csv file and wrote
 
 # View screenshots and implementation
 
-- [Write-up and Screenshots PDF](https://github.com/MohammadAli896/flask-api-server/blob/main/Mohammad%20Ali%20-%20Lab%202%20Submission.pdf)
+- [Write-up and Screenshots PDF](https://github.com/MohammadAli896/sql-database/blob/main/Mohammad%20Ali%20-%20Lab%203%20Submission.pdf)
